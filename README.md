@@ -23,8 +23,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoolCoder123&show_icons=true&theme=default" alt="CoolCoder123's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XUZIAa&show_icons=true&theme=default" alt="CoolCoder123's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CoolCoder123&style=flat-square&color=gray" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=XUZIAa&style=flat-square&color=gray" alt="Profile Views" />
 </p>
