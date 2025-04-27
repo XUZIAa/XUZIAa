@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Xu
+# 👋 Hi, I'm Xu，Second-year undergraduate student majoring in Computer Science and Technology at Shijiazhuang University🎓 .
 
 
-> 自信人生二百年，会当水击三千里。
-> Code is poetry.
-> I love computer technology.
-> I love make friends
+> 自信人生二百年，会当水击三千里。<br>
+> Code is poetry.<br>
+> I love computer technology.<br>
+> I love make friends<br>
 > 雄关漫道真如铁，而今迈步从头越。
 
 ## 🛠️ Technologies & Tools
